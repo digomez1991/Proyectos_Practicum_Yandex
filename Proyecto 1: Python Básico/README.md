@@ -1,6 +1,6 @@
 ## Contenido:
 
-Primer proyecto para Practicum by Yandex en donde se pondran en practica los conocimientos basicos de python aprendidos. En este proyecto, se compararán
+Primer proyecto para Practicum by Yandex en donde se pondrán en practica los conocimientos basicos de python aprendidos. En este proyecto, se compararán
 las preferencias musicales de las ciudades de Springfield y Shelbyville. Se examinarán datos reales de Y.Music para comprobar las hipótesis que se exponen 
 a continuación y comparar el uso de los usuarios de estas dos ciudades.
 ### Hipótesis
